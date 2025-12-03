@@ -14,10 +14,17 @@ project:
     - name: Max Grover
       orcid: 0000-0002-0370-8974
       github: mgrover1
+    - name: Robert Jackson
+      orcid: 0000-0003-2518-1234
+      github: rcjackson
+    - name: Bhupendra Raut
+      orcid: 0000-0001-5598-1393
+      github: RBhupi
     - name: Mark Spychala
       orcid: 0000-0001-9821-9411
       github: Metspy
     - name: Patty Campbell
+      orcid: 0000-0003-4509-4031
     - name: Sid Gupta
       orcid: 0000-0002-0663-4595
   github: https://github.com/jrobrien91/arm-summer-school-2026

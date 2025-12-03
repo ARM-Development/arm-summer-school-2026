@@ -12,8 +12,11 @@ Please list your instructors and mentors below!
 | Scott Collis | Argonne National Laboratory | [Github](https://github.com/scollis) |
 | Joseph O'Brien | Argonne National Laboratory | [Github](https://github.com/jrobrien91) |
 | Mark Spychala | Argonne National Laboratory  | [Github](https://github.com/Metspy) |
+| Adam Theisen | Argonne National Laboratory | [Github](https://github.com/AdamTheisen) |
 | Patty Campbell | Argonne National Laboratory |  |
 | Sid Gupta | Argonne National Laboratory | [Github](https://github.com/sgupta92) |
+| Robert Jackson | Argonne National Laboratory | [Github](https://github.com/rcjackson) |
+| Bhupendra Raut | Argonne National Laboratory | [Github](https://github.com/RBhupi) |
 
 
 ## Schedule
